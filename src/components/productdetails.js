@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import "../styles/productdetails.css";
 const products = [
-  { id: "1", name: "Minimal Desk lamp", price:6.00,image: "" },
+  { id: "1", name: "Minimal Desk lamp", price:89.00,image: "" },
   { id: "2", name: "Cerammic Coffee Mug", price: 12.00, image: "" },
   { id: "3", name: "Leather notebook", price: 14.00, image: "" },
   { id: "4", name:"Bamboo Plant Stand", price: 16.00, image: "" },
